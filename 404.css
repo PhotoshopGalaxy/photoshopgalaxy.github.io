@@ -15,7 +15,6 @@ body{
  background-attachment:fixed;
  background-position-x:50%;
  background-position-y:50%;
- backdrop-filter:blur(4.28px) contrast(1.17) grayscale(0.75) hue-rotate(176deg) saturate(2.5) sepia(0.33);
  background-repeat:no-repeat;
 }
 
