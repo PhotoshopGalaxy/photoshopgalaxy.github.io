@@ -1,0 +1,21 @@
+/* Link */
+a{
+ color:#ffffff;
+}
+
+/* Body */
+body{
+ margin-top:0px;
+ margin-bottom:0px;
+ margin-right:0px;
+ margin-left:0px;
+ background-color:#000000;
+ background-image:url("https://images.unsplash.com/photo-1462331940025-496dfbfc7564?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MXxzZWFyY2h8OHx8Z2FsYXh5fGVufDB8fHx8MTY3MDA4MzQzNw&ixlib=rb-4.0.3&q=80&w=2560");
+ background-size:cover;
+ background-attachment:fixed;
+ background-position-x:0%;
+ background-position-y:50%;
+ backdrop-filter:blur(4.28px) contrast(1.17) grayscale(0.75) hue-rotate(176deg) saturate(2.5) sepia(0.33);
+ background-repeat:no-repeat;
+}
+
