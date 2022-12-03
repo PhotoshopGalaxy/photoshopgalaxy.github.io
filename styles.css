@@ -12,9 +12,9 @@ body{
 
 /* Heading */
 h1{
- font-family:"Hind", sans-serif !important;
+ font-family:"SFNSDisplay-Black" !important;
  color:#ffffff;
- font-weight:600;
+ font-weight:400;
  font-size:60px;
  line-height:65px;
 }
