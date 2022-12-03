@@ -12,7 +12,7 @@ body{
 
 /* Heading */
 h1{
- font-family:"SFNSDisplay-Black" !important;
+ font-family:"SFNSDisplay-Black", sans-serif !important;
  color:#ffffff;
  font-weight:400;
  font-size:60px;
