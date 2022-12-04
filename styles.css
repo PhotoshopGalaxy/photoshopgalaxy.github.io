@@ -14,3 +14,31 @@ body{
  background-color:#111111;
 }
 
+/* Iframe */
+iframe{
+ position:relative;
+ top:110px;
+ left:-629px;
+}
+
+/* Image */
+img:nth-child(3){
+ position:relative;
+ top:-250px;
+ left:6px;
+}
+
+/* Image */
+img{
+ position:relative;
+ left:70px;
+ display:inline-block;
+ transform:translatex(0px) translatey(0px) !important;
+ right:auto !important;
+}
+
+/* Image */
+img:nth-child(1){
+ left:0px;
+}
+
