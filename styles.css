@@ -14,3 +14,34 @@ body{
  background-color:#111111;
 }
 
+/* Heading */
+h6{
+ margin-bottom:0px;
+ margin-top:0px;
+ font-size:1px;
+}
+
+/* Heading */
+h1{
+ margin-top:0px;
+ font-size:1px;
+}
+
+/* Image */
+img{
+ position:relative;
+ top:0px;
+}
+
+/* Image */
+img:nth-child(3){
+ top:-40px;
+}
+
+/* Iframe */
+iframe{
+ position:relative;
+ top:-70px;
+ left:9px;
+}
+
